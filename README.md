@@ -34,6 +34,6 @@ It is structured to help you quickly grasp the fundamentals and start creating a
 7. **Best Practices**
    - Organizing test scripts.
    - Writing reusable code.
-  
-     ## 📢 Stay Connected
+
+## 📢 Stay Connected
 If you find this tutorial helpful, don’t forget to star the repository ⭐ and share it with others. Happy testing! 🚀
